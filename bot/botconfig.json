@@ -1,0 +1,7 @@
+{
+    "client_id": "ur client id here",
+    "client_secret": "ur secret here",
+    "token": "ur bot token here",
+    "guild_id": "ur guild id here",
+    "role_id": "ur role id here"
+}
