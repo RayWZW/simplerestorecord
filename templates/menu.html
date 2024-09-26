@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>User Menu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #36393f;
+            color: #ffffff;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+        }
+
+        h1 {
+            color: #43b581;
+            margin-bottom: 20px;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+        }
+
+        p {
+            font-size: 18px;
+            margin-bottom: 40px;
+            text-align: center;
+            max-width: 400px;
+        }
+
+        .congrats {
+            background-color: #2f3136;
+            border: 1px solid #202225;
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .proceed-button {
+            background-color: #43b581;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 16px;
+            margin-top: 20px;
+            transition: background-color 0.3s, transform 0.2s;
+        }
+
+        .proceed-button:hover {
+            background-color: #36a74a;
+            transform: translateY(-2px);
+        }
+
+        .footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: #b9bbbe;
+        }
+    </style>
+</head>
+<body>
+    <div class="congrats">
+        <h1>🎉 Thanks for Verifying in UTC THUGS, {{ username }}! 🎉</h1>
+        <p>You are now a member of the server. Enjoy your stay!</p>
+        <a href="https://discord.gg/bosinn" target="_blank">
+            <button class="proceed-button">Proceed</button>
+        </a>
+    </div>
+    <div class="footer">
+        <p>© 2024 UTC THUGS. All rights reserved.</p>
+    </div>
+</body>
+</html>

@@ -1,0 +1,161 @@
+2024-09-26 09:58:47,362 -  * Debugger is active!
+2024-09-26 09:58:47,369 -  * Debugger PIN: 141-831-259
+2024-09-26 09:58:51,403 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\callback.py', reloading
+2024-09-26 09:58:51,978 -  * Debugger is active!
+2024-09-26 09:58:51,982 -  * Debugger PIN: 141-831-259
+2024-09-26 09:58:54,006 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\callback.py', reloading
+2024-09-26 09:58:54,607 -  * Debugger is active!
+2024-09-26 09:58:54,612 -  * Debugger PIN: 141-831-259
+2024-09-26 09:59:36,257 - 127.0.0.1 - - [26/Sep/2024 09:59:36] "[32mGET /callback?code=QvbKbVjg5GQbMNSgTZBZVNsmxk7krm&state=utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 09:59:36,603 - 127.0.0.1 - - [26/Sep/2024 09:59:36] "GET /menu HTTP/1.1" 200 -
+2024-09-26 09:59:47,101 - 127.0.0.1 - - [26/Sep/2024 09:59:47] "[33mGET /some_other_action HTTP/1.1[0m" 404 -
+2024-09-26 10:00:04,942 - 127.0.0.1 - - [26/Sep/2024 10:00:04] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:00:16,800 - 127.0.0.1 - - [26/Sep/2024 10:00:16] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:00:20,917 - 127.0.0.1 - - [26/Sep/2024 10:00:20] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:00:21,804 - 127.0.0.1 - - [26/Sep/2024 10:00:21] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:00:21,831 - 127.0.0.1 - - [26/Sep/2024 10:00:21] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:00:23,725 - 127.0.0.1 - - [26/Sep/2024 10:00:23] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:00:26,924 - 127.0.0.1 - - [26/Sep/2024 10:00:26] "[35m[1mPOST /joinpanel HTTP/1.1[0m" 500 -
+2024-09-26 10:00:27,379 - 127.0.0.1 - - [26/Sep/2024 10:00:27] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:00:27,489 - 127.0.0.1 - - [26/Sep/2024 10:00:27] "GET /joinpanel?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-09-26 10:00:27,490 - 127.0.0.1 - - [26/Sep/2024 10:00:27] "GET /joinpanel?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-09-26 10:00:27,858 - 127.0.0.1 - - [26/Sep/2024 10:00:27] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:00:27,995 - 127.0.0.1 - - [26/Sep/2024 10:00:27] "GET /joinpanel?__debugger__=yes&cmd=resource&f=console.png&s=QfWQfjuZrNHYadeSYsfA HTTP/1.1" 200 -
+2024-09-26 10:00:28,346 - 127.0.0.1 - - [26/Sep/2024 10:00:28] "GET /joinpanel?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-09-26 10:00:28,358 - 127.0.0.1 - - [26/Sep/2024 10:00:28] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:00:59,876 - 127.0.0.1 - - [26/Sep/2024 10:00:59] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:01:00,489 - 127.0.0.1 - - [26/Sep/2024 10:01:00] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:01:17,264 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:01:17,844 -  * Debugger is active!
+2024-09-26 10:01:17,850 -  * Debugger PIN: 141-831-259
+2024-09-26 10:01:25,796 - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:6500
+2024-09-26 10:01:25,798 - [33mPress CTRL+C to quit[0m
+2024-09-26 10:01:25,799 -  * Restarting with stat
+2024-09-26 10:01:26,311 -  * Debugger is active!
+2024-09-26 10:01:26,314 -  * Debugger PIN: 141-831-259
+2024-09-26 10:01:29,620 - 127.0.0.1 - - [26/Sep/2024 10:01:29] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:01:30,102 - 127.0.0.1 - - [26/Sep/2024 10:01:30] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:01:34,952 - 127.0.0.1 - - [26/Sep/2024 10:01:34] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:01:36,679 - 127.0.0.1 - - [26/Sep/2024 10:01:36] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:01:37,127 - 127.0.0.1 - - [26/Sep/2024 10:01:37] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:01:37,406 - 127.0.0.1 - - [26/Sep/2024 10:01:37] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:01:37,936 - 127.0.0.1 - - [26/Sep/2024 10:01:37] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:01:51,477 - 127.0.0.1 - - [26/Sep/2024 10:01:51] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:01:54,862 - 127.0.0.1 - - [26/Sep/2024 10:01:54] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:02:01,176 - 127.0.0.1 - - [26/Sep/2024 10:02:01] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:02:02,665 - 127.0.0.1 - - [26/Sep/2024 10:02:02] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:02:03,143 - 127.0.0.1 - - [26/Sep/2024 10:02:03] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:02:27,392 - 127.0.0.1 - - [26/Sep/2024 10:02:27] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:02:30,207 - 127.0.0.1 - - [26/Sep/2024 10:02:30] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:02:30,677 - 127.0.0.1 - - [26/Sep/2024 10:02:30] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:02:53,189 - 127.0.0.1 - - [26/Sep/2024 10:02:53] "[33mGET /joinpqnel HTTP/1.1[0m" 404 -
+2024-09-26 10:02:56,798 - 127.0.0.1 - - [26/Sep/2024 10:02:56] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:03:00,543 - 127.0.0.1 - - [26/Sep/2024 10:03:00] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:03:01,126 - 127.0.0.1 - - [26/Sep/2024 10:03:01] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:03:15,362 - 127.0.0.1 - - [26/Sep/2024 10:03:15] "[32mGET /?fbclid=IwZXh0bgNhZW0CMTEAAR2eD7WxtnZXbMF8BKh_OiK8ru_yIjHMAm3qhWNJwpEYARknb1uyoS2l9nE_aem_Y-tzwHkM4zpFM3QAcd08xg HTTP/1.1[0m" 302 -
+2024-09-26 10:03:15,618 - 127.0.0.1 - - [26/Sep/2024 10:03:15] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:04:13,080 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:04:13,116 -  * Restarting with stat
+2024-09-26 10:04:13,655 -  * Debugger is active!
+2024-09-26 10:04:13,661 -  * Debugger PIN: 141-831-259
+2024-09-26 10:04:26,397 - 127.0.0.1 - - [26/Sep/2024 10:04:26] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:04:29,594 - 127.0.0.1 - - [26/Sep/2024 10:04:29] "GET /roles/1282749898923573352 HTTP/1.1" 200 -
+2024-09-26 10:04:37,583 - 127.0.0.1 - - [26/Sep/2024 10:04:37] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:04:38,054 - 127.0.0.1 - - [26/Sep/2024 10:04:38] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:06:41,711 - 127.0.0.1 - - [26/Sep/2024 10:06:41] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:06:44,843 - 127.0.0.1 - - [26/Sep/2024 10:06:44] "GET /roles/1253603999064522794 HTTP/1.1" 200 -
+2024-09-26 10:06:53,394 - 127.0.0.1 - - [26/Sep/2024 10:06:53] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:06:53,918 - 127.0.0.1 - - [26/Sep/2024 10:06:53] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:08:36,857 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:08:36,895 -  * Restarting with stat
+2024-09-26 10:08:37,464 -  * Debugger is active!
+2024-09-26 10:08:37,470 -  * Debugger PIN: 141-831-259
+2024-09-26 10:08:53,271 - 127.0.0.1 - - [26/Sep/2024 10:08:53] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:08:58,664 - 127.0.0.1 - - [26/Sep/2024 10:08:58] "POST /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:05,757 - 127.0.0.1 - - [26/Sep/2024 10:09:05] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:09:06,286 - 127.0.0.1 - - [26/Sep/2024 10:09:06] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:17,644 - 127.0.0.1 - - [26/Sep/2024 10:09:17] "GET /roles/1282749898923573352 HTTP/1.1" 200 -
+2024-09-26 10:09:20,300 - 127.0.0.1 - - [26/Sep/2024 10:09:20] "POST /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:36,002 - 127.0.0.1 - - [26/Sep/2024 10:09:36] "POST /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:39,611 - 127.0.0.1 - - [26/Sep/2024 10:09:39] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:44,313 - 127.0.0.1 - - [26/Sep/2024 10:09:44] "POST /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:09:54,828 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:09:54,870 -  * Restarting with stat
+2024-09-26 10:09:55,394 -  * Debugger is active!
+2024-09-26 10:09:55,399 -  * Debugger PIN: 141-831-259
+2024-09-26 10:09:59,432 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:09:59,466 -  * Restarting with stat
+2024-09-26 10:10:00,002 -  * Debugger is active!
+2024-09-26 10:10:00,005 -  * Debugger PIN: 141-831-259
+2024-09-26 10:10:36,186 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:10:36,218 -  * Restarting with stat
+2024-09-26 10:10:36,744 -  * Debugger is active!
+2024-09-26 10:10:36,747 -  * Debugger PIN: 141-831-259
+2024-09-26 10:10:39,696 - 127.0.0.1 - - [26/Sep/2024 10:10:39] "[33mPOST /joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:10:50,359 - 127.0.0.1 - - [26/Sep/2024 10:10:50] "GET /joinpanelGeorge123 HTTP/1.1" 200 -
+2024-09-26 10:10:53,870 - 127.0.0.1 - - [26/Sep/2024 10:10:53] "GET /roles/1282749898923573352 HTTP/1.1" 200 -
+2024-09-26 10:10:54,820 - 127.0.0.1 - - [26/Sep/2024 10:10:54] "GET /joinpanelGeorge123 HTTP/1.1" 200 -
+2024-09-26 10:10:55,868 - 127.0.0.1 - - [26/Sep/2024 10:10:55] "GET /joinpanelGeorge123 HTTP/1.1" 200 -
+2024-09-26 10:10:55,891 - 127.0.0.1 - - [26/Sep/2024 10:10:55] "GET /joinpanelGeorge123 HTTP/1.1" 200 -
+2024-09-26 10:10:56,755 - 127.0.0.1 - - [26/Sep/2024 10:10:56] "[32mPOST /joinpanelGeorge123 HTTP/1.1[0m" 302 -
+2024-09-26 10:10:57,121 - 127.0.0.1 - - [26/Sep/2024 10:10:57] "[33mGET /joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:11:11,916 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:11:11,951 -  * Restarting with stat
+2024-09-26 10:11:12,472 -  * Debugger is active!
+2024-09-26 10:11:12,477 -  * Debugger PIN: 141-831-259
+2024-09-26 10:11:39,616 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:11:39,647 -  * Restarting with stat
+2024-09-26 10:11:40,195 -  * Debugger is active!
+2024-09-26 10:11:40,200 -  * Debugger PIN: 141-831-259
+2024-09-26 10:11:45,237 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:11:45,286 -  * Restarting with stat
+2024-09-26 10:11:45,797 -  * Debugger is active!
+2024-09-26 10:11:45,802 -  * Debugger PIN: 141-831-259
+2024-09-26 10:12:10,733 - 127.0.0.1 - - [26/Sep/2024 10:12:10] "[33mGET /joinpanelhttps://utcverify.loophole.site/joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:12:12,875 - 127.0.0.1 - - [26/Sep/2024 10:12:12] "[33mGET /joinpanelhttps://utcverify.loophole.site/joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:12:18,961 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:12:18,996 -  * Restarting with stat
+2024-09-26 10:12:19,519 -  * Debugger is active!
+2024-09-26 10:12:19,522 -  * Debugger PIN: 141-831-259
+2024-09-26 10:12:26,094 - 127.0.0.1 - - [26/Sep/2024 10:12:26] "[33mGET /joinpanelhttps://utcverify.loophole.site/joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:12:52,684 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\joinpanel.py', reloading
+2024-09-26 10:12:52,717 -  * Restarting with stat
+2024-09-26 10:12:53,231 -  * Debugger is active!
+2024-09-26 10:12:53,234 -  * Debugger PIN: 141-831-259
+2024-09-26 10:12:55,057 - 127.0.0.1 - - [26/Sep/2024 10:12:55] "[33mGET /joinpanelhttps://utcverify.loophole.site/joinpanel HTTP/1.1[0m" 404 -
+2024-09-26 10:13:11,096 - 127.0.0.1 - - [26/Sep/2024 10:13:11] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:13:13,482 - 127.0.0.1 - - [26/Sep/2024 10:13:13] "GET /roles/1282749898923573352 HTTP/1.1" 200 -
+2024-09-26 10:13:16,232 - 127.0.0.1 - - [26/Sep/2024 10:13:16] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:13:16,827 - 127.0.0.1 - - [26/Sep/2024 10:13:16] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:13:56,217 - 127.0.0.1 - - [26/Sep/2024 10:13:56] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:13:56,218 - 127.0.0.1 - - [26/Sep/2024 10:13:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-26 10:13:56,586 - 127.0.0.1 - - [26/Sep/2024 10:13:56] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:14:02,766 - 127.0.0.1 - - [26/Sep/2024 10:14:02] "[32mGET /callback?code=s1d6z8qAs4rffswxqmTyU5SZxvJgqy&state=utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:14:03,112 - 127.0.0.1 - - [26/Sep/2024 10:14:03] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:15:31,489 - 127.0.0.1 - - [26/Sep/2024 10:15:31] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:15:59,086 - 127.0.0.1 - - [26/Sep/2024 10:15:59] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:15:59,421 - 127.0.0.1 - - [26/Sep/2024 10:15:59] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:16:08,836 - 127.0.0.1 - - [26/Sep/2024 10:16:08] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:16:10,730 - 127.0.0.1 - - [26/Sep/2024 10:16:10] "[32mGET /callback?code=3isYjTQWeJ3S43qOTWmlEpNVRS9FoT&state=utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:16:11,064 - 127.0.0.1 - - [26/Sep/2024 10:16:11] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:16:11,461 - 127.0.0.1 - - [26/Sep/2024 10:16:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-09-26 10:17:01,377 - 127.0.0.1 - - [26/Sep/2024 10:17:01] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:17:29,400 - 127.0.0.1 - - [26/Sep/2024 10:17:29] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:17:33,318 - 127.0.0.1 - - [26/Sep/2024 10:17:33] "GET /roles/1270420038217629699 HTTP/1.1" 200 -
+2024-09-26 10:17:39,651 - 127.0.0.1 - - [26/Sep/2024 10:17:39] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:17:40,010 - 127.0.0.1 - - [26/Sep/2024 10:17:40] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:17:48,823 - 127.0.0.1 - - [26/Sep/2024 10:17:48] "[32mGET /callback?code=bOF0DgKnOBdQgIeEzuVNSca74WUsnS&state=utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:17:49,168 - 127.0.0.1 - - [26/Sep/2024 10:17:49] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:18:28,944 - 127.0.0.1 - - [26/Sep/2024 10:18:28] "[32mPOST /joinpanel HTTP/1.1[0m" 302 -
+2024-09-26 10:18:29,433 - 127.0.0.1 - - [26/Sep/2024 10:18:29] "GET /joinpanel HTTP/1.1" 200 -
+2024-09-26 10:18:38,784 -  * Detected change in 'd:\\restorecord\\restorecord2.0\\callback.py', reloading
+2024-09-26 10:18:38,819 -  * Restarting with stat
+2024-09-26 10:18:39,374 -  * Debugger is active!
+2024-09-26 10:18:39,379 -  * Debugger PIN: 141-831-259
+2024-09-26 10:18:58,597 - 127.0.0.1 - - [26/Sep/2024 10:18:58] "[32mGET /callback?code=z8APxRm55rkLhf2wajNeDC4AIHumQM&state=utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:18:58,923 - 127.0.0.1 - - [26/Sep/2024 10:18:58] "GET /menu HTTP/1.1" 200 -
+2024-09-26 10:20:04,521 - 127.0.0.1 - - [26/Sep/2024 10:20:04] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:20:04,702 - 127.0.0.1 - - [26/Sep/2024 10:20:04] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
+2024-09-26 10:20:06,065 - 127.0.0.1 - - [26/Sep/2024 10:20:06] "[32mGET / HTTP/1.1[0m" 302 -
+2024-09-26 10:20:06,263 - 127.0.0.1 - - [26/Sep/2024 10:20:06] "[32mGET /utcthugs HTTP/1.1[0m" 302 -
